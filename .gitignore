@@ -1,0 +1,13 @@
+.vs/
+Intermediate/
+Saved/
+Binaries/
+Build/
+**/Intermediate
+**/Saved
+**/Binaries
+**/Build
+*.sln
+SteamCoreExample/Plugins/
+SteamCoreWebExample/Plugins/
+Plugins/EOSCore
